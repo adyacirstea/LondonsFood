@@ -1,0 +1,50 @@
+
+.jumbotron {
+  background-image: url("interior_10.jpg");
+  background-size: cover;
+  height:500px;
+  text-shadow: black 0.3em 0.3em 0.3em;
+  padding-top: 200px;
+
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+
+  }
+  .fa-facebook {
+      background: #3B5998;
+      color: white;}
+
+  .fa-instagram {
+        background: #125688;
+        color: white;
+      }
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 20px;
+}
+
+footer{
+  font-size: 20px;
+  
+  text-align: center;
+  background-color: #1a1a1a;
+  color: white;
+  font-family: fantasy;
+}
+button{
+  color: black;
+}
